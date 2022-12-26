@@ -68,6 +68,10 @@
 }
 
 .offset-4 {
+    margin-left: calc(100% / 12 * 4);
+}
+
+.offset-5 {
     margin-left: calc(100% / 12 * 5);
 }
 
@@ -93,8 +97,4 @@
 
 .offset-11 {
     margin-left: calc(100% / 12 * 11);
-}
-
-.offset-12 {
-    margin-left: calc(100% / 12 * 12);
 }
